@@ -1,0 +1,7 @@
+Eram 5 questões dos assuntos:
+
+Estrutura sequencial;
+Estrutura Condicional;
+Estrutura de Repetição;
+Vetores;
+String;

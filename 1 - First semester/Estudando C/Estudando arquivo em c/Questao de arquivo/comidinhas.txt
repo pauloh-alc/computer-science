@@ -1,0 +1,3 @@
+Nome da comidinha 0: Arroz (quantidade: 2, cor: Branco)
+Nome da comidinha 1: Feijao (quantidade: 2, cor: Marron)
+Nome da comidinha 0: Sorvete (quantidade: 5, cor: Napolitano)

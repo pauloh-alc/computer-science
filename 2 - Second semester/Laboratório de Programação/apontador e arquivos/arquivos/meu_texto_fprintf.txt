@@ -1,0 +1,4 @@
+547.320007
+string constante
+teste para string
+T

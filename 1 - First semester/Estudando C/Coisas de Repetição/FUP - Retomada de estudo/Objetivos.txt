@@ -1,0 +1,3 @@
+Lista 2 - Estrutura condicional [ok]
+Lista 3 - Estrutura de Repetição [ok]
+...

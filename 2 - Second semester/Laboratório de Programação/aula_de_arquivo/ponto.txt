@@ -1,0 +1,3 @@
+ponto 5 0
+ponto 8 4
+ponto 14 15
